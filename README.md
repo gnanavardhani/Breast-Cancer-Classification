@@ -19,6 +19,6 @@ DDSM: https://www.kaggle.com/skooch/ddsm-mammography
 
 Mias: 1,2,4,6,7,8,9,11,13,14
 
-DDSM: 1,2,3,5,9,10,12, 15
+DDSM: 1,2,3,5,9,10,12
 
 Yes survey papers are available.
