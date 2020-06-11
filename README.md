@@ -24,3 +24,4 @@ DDSM: 1,2,3,5,9,10,12
 Metrics:
 
 Yes survey papers are available.
+Basics, Set0 and, tasks link : https://docs.google.com/document/d/1m4MZ7uWgBqJjvSHvrwDtYaSzgRB-j5cudnA7LMA7At4/edit?usp=sharing
