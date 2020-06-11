@@ -7,9 +7,9 @@ Breast histology Images: https://www.kaggle.com/paultimothymooney/breast-histopa
 
 BreakHist dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 
-1,2,3-breakhihst
+BreakHist: 1,2,3
 
-5,4-enhancing histology,breast histopathology images
+Breast histopathology images: 4,5
 
 Datasets for mammography:
 
