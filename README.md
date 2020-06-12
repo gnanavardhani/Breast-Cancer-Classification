@@ -7,6 +7,8 @@ Breast histology Images: https://www.kaggle.com/paultimothymooney/breast-histopa
 
 BreakHist dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 
+BioImaging challenge 2015 breast histology : https://rdm.inesctec.pt/dataset/nis-2017-003/resource/df04ea95-36a7-49a8-9b70-605798460c35
+
 Datasets for mammography:
 
 Mias: https://www.repository.cam.ac.uk/handle/1810/250394
