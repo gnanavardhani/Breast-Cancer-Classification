@@ -16,7 +16,7 @@ Mias: https://www.repository.cam.ac.uk/handle/1810/250394
 DDSM: https://www.kaggle.com/skooch/ddsm-mammography
 
 Metrics:
-Accuracy, Recall, Precision, Average precision, AUC, F-score, Sensitivity, Specificity, Value Index curve, TRP/FRP, Dice Coefficient, TP FP (Positive Prediction values, Negative Prediction values), Average kappa value, False positive rate and false negative rate, Homogeneity Value, Energy value, wavelet coefficients, mean square error, Peak signal to noise ratio, structural content and normalized absolute error
+Accuracy,Recall, Precision, Average precision, AUC,F-score, Sensitivity, Specificity, Value Index curve, TP FP (Positive Prediction values, Negative Prediction values), TPT FPR, FPI, FN, wavelet coefficients
 
 Yes survey papers are available.
 
