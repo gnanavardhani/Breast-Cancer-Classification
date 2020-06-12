@@ -22,7 +22,7 @@ Mias: 1,2,4,6,7,8,9,11,13,14
 DDSM: 1,2,3,5,9,10,12
 
 Metrics:
+Accuracy, Recall, Precision, Average precision, AUC, F-score, Sensitivity, Specificity, Value Index curve, TRP/FRP, Dice Coefficient, TP FP (Positive Prediction values, Negative Prediction values), Average kappa value, False positive rate and false negative rate, Homogeneity Value, Energy value, wavelet coefficients, mean square error, Peak signal to noise ratio, structural content and normalized absolute error
 
 Yes survey papers are available.
 
-Basics, Set0 and, tasks link : https://docs.google.com/document/d/1m4MZ7uWgBqJjvSHvrwDtYaSzgRB-j5cudnA7LMA7At4/edit?usp=sharing
