@@ -5,7 +5,7 @@ Datasets for Histopathology:
 
 Breast histology Images: https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 
-BreakHist dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-images
+BreakHist dataset: https://www.kaggle.com/ambarish/breakhis?select=BreaKHis_v1
 
 BioImaging challenge 2015 breast histology : https://rdm.inesctec.pt/dataset/nis-2017-003/resource/df04ea95-36a7-49a8-9b70-605798460c35
 
